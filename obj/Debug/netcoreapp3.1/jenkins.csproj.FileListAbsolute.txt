@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\bin\Debug\netcoreapp3.1\jenkins.exe
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\bin\Debug\netcoreapp3.1\jenkins.deps.json
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\bin\Debug\netcoreapp3.1\jenkins.runtimeconfig.json
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\bin\Debug\netcoreapp3.1\jenkins.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\bin\Debug\netcoreapp3.1\jenkins.dll
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\bin\Debug\netcoreapp3.1\jenkins.pdb
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\obj\Debug\netcoreapp3.1\jenkins.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\obj\Debug\netcoreapp3.1\jenkins.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\obj\Debug\netcoreapp3.1\jenkins.AssemblyInfo.cs
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\obj\Debug\netcoreapp3.1\jenkins.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\obj\Debug\netcoreapp3.1\jenkins.dll
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\obj\Debug\netcoreapp3.1\jenkins.pdb
+C:\Users\Student\Desktop\Code\jenkins1\jenkins\obj\Debug\netcoreapp3.1\jenkins.genruntimeconfig.cache
